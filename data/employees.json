@@ -1,0 +1,1632 @@
+[
+  {
+    "key": "b93305a82b91",
+    "name": "Abdallah Athuman Majid",
+    "employee_number": "277",
+    "terminal_id": "277",
+    "department": "Kiswahili",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Kiswahili",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "f95780fbd481",
+    "name": "Abdallah Hamadi Kingshashu",
+    "employee_number": "276",
+    "terminal_id": "276",
+    "department": "Chemistry",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Chemistry",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "c5e5a947e927",
+    "name": "Abdallah Hamisi Abdulrahman",
+    "employee_number": "261",
+    "terminal_id": "261",
+    "department": "Economics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Economics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "cf5b2b311ab6",
+    "name": "Abdallah Hamisi Kibode",
+    "employee_number": "296",
+    "terminal_id": "296",
+    "department": "Physics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Physics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "a94c6d882e79",
+    "name": "Abdallah Salum",
+    "employee_number": "159",
+    "terminal_id": "159",
+    "department": "Estate",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Estate",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "6590b21ece43",
+    "name": "Abdallah S. Muchunguzi",
+    "employee_number": "245",
+    "terminal_id": "245",
+    "department": "ICT",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / ICT",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "52c88c363243",
+    "name": "Abdallah Yahaya Tego",
+    "employee_number": "32",
+    "terminal_id": "32",
+    "department": "BA",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Business Studies / BA",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "499c4d21fa26",
+    "name": "Abdi Kassim Jiba",
+    "employee_number": "137",
+    "terminal_id": "137",
+    "department": "Islamic Studies",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Islamic Studies / Islamic Studies",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "42abcd51e7e9",
+    "name": "Abdillahi Mussa Kitota",
+    "employee_number": "120",
+    "terminal_id": "120",
+    "department": "Biology",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Biology",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "228a0b3b5d89",
+    "name": "Abdulatifu Hemed",
+    "employee_number": "187",
+    "terminal_id": "187",
+    "department": "Procurement (Administration and Finance)",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Procurement (Administration and Finance)",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "602a7499f814",
+    "name": "Abdulrahman Hamdu Muchi",
+    "employee_number": "84",
+    "terminal_id": "84",
+    "department": "Radio",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Radio",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "241ed60d1b4d",
+    "name": "ABDUL-Rahnman Japhary Mumbu",
+    "employee_number": "133",
+    "terminal_id": "133",
+    "department": "Admission",
+    "department_path": "Vice Chancellor / DVC (Academic) / Admission",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "c74503b52767",
+    "name": "Abdul Zuberi Chambega",
+    "employee_number": "265",
+    "terminal_id": "265",
+    "department": "Estate",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Estate",
+    "already_registered": true,
+    "terminal_alias": "Abdul Zuberi Chambega"
+  },
+  {
+    "key": "ed728e621abf",
+    "name": "Adam Issa",
+    "employee_number": "282",
+    "terminal_id": "282",
+    "department": "BA",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Business Studies / BA",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "e7d3e769f3f5",
+    "name": "Administrator",
+    "employee_number": "",
+    "terminal_id": "",
+    "department": "Unassigned",
+    "department_path": "Unassigned",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "41f771f28566",
+    "name": "Aeshi Abbas Rajabu",
+    "employee_number": "313",
+    "terminal_id": "313",
+    "department": "Kiswahili",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Kiswahili",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "ec183984e9c5",
+    "name": "Aeshi Jumanne",
+    "employee_number": "54",
+    "terminal_id": "54",
+    "department": "Human Resource",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Human Resource",
+    "already_registered": true,
+    "terminal_alias": "Aeshi J Kachemela"
+  },
+  {
+    "key": "f4f35e9b6722",
+    "name": "Ahmed Mohamed Meena",
+    "employee_number": "124",
+    "terminal_id": "124",
+    "department": "Radio",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Radio",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "66883ab9b487",
+    "name": "Ali Keya Anami",
+    "employee_number": "267",
+    "terminal_id": "267",
+    "department": "Economics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Economics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "ede3d7eb4a03",
+    "name": "Ally Jumanne Ipandaa",
+    "employee_number": "298",
+    "terminal_id": "298",
+    "department": "Medical Lab",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Medical Lab",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "b7ff13ac25d8",
+    "name": "Amani Juma Mogela",
+    "employee_number": "315",
+    "terminal_id": "315",
+    "department": "ICT",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / ICT",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "2f2fc13fd2ed",
+    "name": "Amina Mshamu Mwangu",
+    "employee_number": "208",
+    "terminal_id": "208",
+    "department": "Human Resource",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Human Resource",
+    "already_registered": true,
+    "terminal_alias": "Amina Mshamu Mwangu"
+  },
+  {
+    "key": "03502383faf8",
+    "name": "Asha Shabani Mohamedi",
+    "employee_number": "330",
+    "terminal_id": "330",
+    "department": "Human Resource",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Human Resource",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "7b28e594e62b",
+    "name": "Athuman S. Sulle",
+    "employee_number": "86",
+    "terminal_id": "86",
+    "department": "Chemistry Lab",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Chemistry Lab",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "5f626e854cda",
+    "name": "Azamu Mbaruku Saidi",
+    "employee_number": "321",
+    "terminal_id": "321",
+    "department": "Geography",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Geography",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "0f1fead82f0d",
+    "name": "Aziza Y. Habib",
+    "employee_number": "202",
+    "terminal_id": "202",
+    "department": "Medical Lab",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Medical Lab",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "3c32c24d61b8",
+    "name": "Azuath Burhan Mustafa",
+    "employee_number": "219",
+    "terminal_id": "219",
+    "department": "Law and Sharia'h",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Law & Shariah / Law and Sharia'h",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "cca704140b8a",
+    "name": "Bahati Hussein Ramadhan",
+    "employee_number": "207",
+    "terminal_id": "207",
+    "department": "History",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / History",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "a09b106379e1",
+    "name": "Bilali Ally Mataru",
+    "employee_number": "210",
+    "terminal_id": "210",
+    "department": "Mathematics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Mathematics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "dac03bb03bfc",
+    "name": "Burhan Mohamed Ngonyani",
+    "employee_number": "320",
+    "terminal_id": "320",
+    "department": "Kiswahili",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Kiswahili",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "62b187b55033",
+    "name": "Chausiku M. O. Kapaya",
+    "employee_number": "158",
+    "terminal_id": "158",
+    "department": "Library",
+    "department_path": "Vice Chancellor / DVC (Academic) / Library",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "ec36c1242a28",
+    "name": "Dr.Abubakar Sheikh Rajab",
+    "employee_number": "33",
+    "terminal_id": "33",
+    "department": "Mass com",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Mass com",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "d7aa0035e0e6",
+    "name": "Dr. Adam Omari Hassan Korogoto",
+    "employee_number": "259",
+    "terminal_id": "259",
+    "department": "Language and Linguistics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Language and Linguistics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "d3bef0c8ba9a",
+    "name": "Dr. Ali Ame Machano",
+    "employee_number": "176",
+    "terminal_id": "176",
+    "department": "Law and Sharia'h",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Law & Shariah / Law and Sharia'h",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "39e42e87a5a7",
+    "name": "Dr. Bilal Juma Ramadhan",
+    "employee_number": "57",
+    "terminal_id": "57",
+    "department": "Islamic Studies",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Islamic Studies / Islamic Studies",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "1ddc4f0bd31d",
+    "name": "Dr.Hadija Abdallah Kutwa",
+    "employee_number": "87",
+    "terminal_id": "87",
+    "department": "Kiswahili",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Kiswahili",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "14ce83b79ca2",
+    "name": "Dr.Hamis Salum Haji",
+    "employee_number": "76",
+    "terminal_id": "76",
+    "department": "Postgraduate and Internalization Unit",
+    "department_path": "Vice Chancellor / DVC (Academic) / Postgraduate and Internalization Unit",
+    "already_registered": true,
+    "terminal_alias": "Salum Haji Hamisi"
+  },
+  {
+    "key": "35ec0e8f9365",
+    "name": "Dr.Issa Omar Malecela",
+    "employee_number": "68",
+    "terminal_id": "68",
+    "department": "Education",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Education",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "1677d8fadaeb",
+    "name": "Dr. Job Nyagemi",
+    "employee_number": "288",
+    "terminal_id": "288",
+    "department": "Language and Linguistics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Language and Linguistics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "4492acc7bf4e",
+    "name": "Dr. Juma Adamu Bakari",
+    "employee_number": "260",
+    "terminal_id": "260",
+    "department": "Mass com",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Mass com",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "6dcef4725cb7",
+    "name": "Dr. Jumanne K. Ngohengo",
+    "employee_number": "189",
+    "terminal_id": "189",
+    "department": "History",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / History",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "e7bbe0b7a92c",
+    "name": "Dr Juma Saidi Mwinjuma",
+    "employee_number": "319",
+    "terminal_id": "319",
+    "department": "Education",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Education",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "29babaf37a7f",
+    "name": "Dr.Juma Shaaban Chibololo",
+    "employee_number": "65",
+    "terminal_id": "65",
+    "department": "Secretary To The Council",
+    "department_path": "Vice Chancellor / Secretary To The Council",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "aa39e41c4662",
+    "name": "Dr.Mussa Omari Amanzi",
+    "employee_number": "223",
+    "terminal_id": "223",
+    "department": "Kiswahili",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Kiswahili",
+    "already_registered": true,
+    "terminal_alias": "Mussa Omari Amanzi"
+  },
+  {
+    "key": "8a54c1398977",
+    "name": "Dr Omari Kassim Bakar",
+    "employee_number": "316",
+    "terminal_id": "316",
+    "department": "Kiswahili",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Kiswahili",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "c86be4e595a7",
+    "name": "Dr Pazi Mwinyimvua Semili",
+    "employee_number": "292",
+    "terminal_id": "292",
+    "department": "Biology",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Biology",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "32c32e7c3edf",
+    "name": "Dr. Rashid Hamad Faki",
+    "employee_number": "138",
+    "terminal_id": "138",
+    "department": "Law and Sharia'h",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Law & Shariah / Law and Sharia'h",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "103e526830f9",
+    "name": "Dr.Rehema Twahiry Kilagwa",
+    "employee_number": "161",
+    "terminal_id": "161",
+    "department": "Mass com",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Mass com",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "6a6c8e12d117",
+    "name": "Dr.Said Nassoro Jaffu",
+    "employee_number": "80",
+    "terminal_id": "80",
+    "department": "Language and Linguistics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Language and Linguistics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "d10cfad81382",
+    "name": "Dr.Saumu Athuman",
+    "employee_number": "85",
+    "terminal_id": "85",
+    "department": "Geography",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Geography",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "5fc012dcd4bd",
+    "name": "Dr. Shafii Haruna Kikwale",
+    "employee_number": "290",
+    "terminal_id": "290",
+    "department": "Arabic",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Arabic",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "b8df8185ce9d",
+    "name": "Dr. Yassin Salim Mussa",
+    "employee_number": "269",
+    "terminal_id": "269",
+    "department": "Kiswahili",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Kiswahili",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "78fd41cbd942",
+    "name": "Dr Zahara Nassoro",
+    "employee_number": "153",
+    "terminal_id": "153",
+    "department": "Biology",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Biology",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "0811662900b4",
+    "name": "Elijah Mariera",
+    "employee_number": "291",
+    "terminal_id": "291",
+    "department": "Language and Linguistics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Language and Linguistics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "fd2605498418",
+    "name": "Emmanuel Idrisa Philipo",
+    "employee_number": "314",
+    "terminal_id": "314",
+    "department": "Law and Sharia'h",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Law & Shariah / Law and Sharia'h",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "8ec399bf8c88",
+    "name": "Fadhila A. Mzese",
+    "employee_number": "247",
+    "terminal_id": "247",
+    "department": "Human Resource",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Human Resource",
+    "already_registered": true,
+    "terminal_alias": "Fadhila A Mzese"
+  },
+  {
+    "key": "a94ddbf1c388",
+    "name": "Fadhili A. Telekia",
+    "employee_number": "155",
+    "terminal_id": "155",
+    "department": "Physics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Physics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "e98176662d76",
+    "name": "Fadhili Mtani",
+    "employee_number": "171",
+    "terminal_id": "171",
+    "department": "History",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / History",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "d795628d9a4a",
+    "name": "Faki Ali Malengo",
+    "employee_number": "79",
+    "terminal_id": "79",
+    "department": "Postgraduate and Internalization Unit",
+    "department_path": "Vice Chancellor / DVC (Academic) / Postgraduate and Internalization Unit",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "28ca44166af1",
+    "name": "Faraja Msuya",
+    "employee_number": "287",
+    "terminal_id": "287",
+    "department": "Law and Sharia'h",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Law & Shariah / Law and Sharia'h",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "8e9c567dcfba",
+    "name": "Farida Rafael Lowasa",
+    "employee_number": "183",
+    "terminal_id": "183",
+    "department": "Accounting",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Business Studies / Accounting",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "7846404582c9",
+    "name": "Fatuma Ramadhani Kawale",
+    "employee_number": "173",
+    "terminal_id": "173",
+    "department": "Kiswahili",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Kiswahili",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "8e81b0095372",
+    "name": "Geza Abdallah Mnandi",
+    "employee_number": "325",
+    "terminal_id": "325",
+    "department": "Accounting and Finance",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Accounting and Finance",
+    "already_registered": true,
+    "terminal_alias": "Geza Abdallah Mnandi"
+  },
+  {
+    "key": "f8fed16b3bf7",
+    "name": "Grace Silas Kiko",
+    "employee_number": "83",
+    "terminal_id": "83",
+    "department": "Human Resource",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Human Resource",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "582fca866462",
+    "name": "Habiba Shabani",
+    "employee_number": "114",
+    "terminal_id": "114",
+    "department": "Radio",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Radio",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "2c39634158bc",
+    "name": "Hadija Mohamed Idd",
+    "employee_number": "169",
+    "terminal_id": "169",
+    "department": "Education",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Education",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "93d6c0f773fe",
+    "name": "Halfani Kihata",
+    "employee_number": "251",
+    "terminal_id": "251",
+    "department": "Radio",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Radio",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "7dd87ec14248",
+    "name": "Halidi Ally Lyeme",
+    "employee_number": "90",
+    "terminal_id": "90",
+    "department": "Mathematics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Mathematics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "4d91690d2a79",
+    "name": "Halidi Ally Mfinanga",
+    "employee_number": "144",
+    "terminal_id": "144",
+    "department": "Accounting and Finance",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Accounting and Finance",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "5e9c0d18a86a",
+    "name": "Halima Abdallah Mikogo",
+    "employee_number": "281",
+    "terminal_id": "281",
+    "department": "BA",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Business Studies / BA",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "1e73b7eebcd7",
+    "name": "Halima Rajabu Ibrahimu",
+    "employee_number": "293",
+    "terminal_id": "293",
+    "department": "Finance",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Business Studies / Finance",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "ef22c1d57fe6",
+    "name": "Hamad Abubakar Salum",
+    "employee_number": "",
+    "terminal_id": "",
+    "department": "Geography",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Geography",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "9d4edf2c1374",
+    "name": "Hamadi S. Hassan",
+    "employee_number": "244",
+    "terminal_id": "244",
+    "department": "Public Relations",
+    "department_path": "Vice Chancellor / Public Relations",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "ca6492897cec",
+    "name": "Hamad Msamaa Masoud",
+    "employee_number": "127",
+    "terminal_id": "127",
+    "department": "Language and Linguistics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Language and Linguistics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "82bc6853e0c0",
+    "name": "Hamidu Abdallah Shungu",
+    "employee_number": "271",
+    "terminal_id": "271",
+    "department": "Unassigned",
+    "department_path": "Unassigned",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "ddc5f23f0caa",
+    "name": "Hamisi Abdallah Mitigo",
+    "employee_number": "246",
+    "terminal_id": "246",
+    "department": "ICT",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / ICT",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "fdd12368ed98",
+    "name": "Hamisi Hemedi Hamisi",
+    "employee_number": "272",
+    "terminal_id": "272",
+    "department": "History",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / History",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "bece4f7ba4ff",
+    "name": "Hamisi Moshi Sadiki",
+    "employee_number": "250",
+    "terminal_id": "250",
+    "department": "Radio",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Radio",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "4b4af7f8c0a1",
+    "name": "Hamisi Togwa",
+    "employee_number": "278",
+    "terminal_id": "278",
+    "department": "Education",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Education",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "de56e2e6a48a",
+    "name": "Hamis S Salumu",
+    "employee_number": "322",
+    "terminal_id": "322",
+    "department": "Law and Sharia'h",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Law & Shariah / Law and Sharia'h",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "c31d44965ed9",
+    "name": "Haridi Ally Mussa",
+    "employee_number": "317",
+    "terminal_id": "317",
+    "department": "Human Resource",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Human Resource",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "901564179a85",
+    "name": "Hassan Mohamed Issa",
+    "employee_number": "128",
+    "terminal_id": "128",
+    "department": "Dean of Student Office",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Dean of Student Office",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "205fb6a21330",
+    "name": "Hassan Omary Kumenya",
+    "employee_number": "236",
+    "terminal_id": "236",
+    "department": "Chemistry",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Chemistry",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "79ae0f8f884a",
+    "name": "Hassara Chamagange",
+    "employee_number": "94",
+    "terminal_id": "94",
+    "department": "Estate",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Estate",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "bf677622c4a3",
+    "name": "Hussein Issa Chanzi",
+    "employee_number": "215",
+    "terminal_id": "215",
+    "department": "Planning, Marketing and Investment",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Planning, Marketing and Investment",
+    "already_registered": true,
+    "terminal_alias": "Hussein Chanzi"
+  },
+  {
+    "key": "311d666a3d97",
+    "name": "Ibrahim Ally Sheshe",
+    "employee_number": "328",
+    "terminal_id": "328",
+    "department": "Library",
+    "department_path": "Vice Chancellor / DVC (Academic) / Library",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "3c12a884a634",
+    "name": "Ibrahim Said Ngatumbura",
+    "employee_number": "99",
+    "terminal_id": "99",
+    "department": "Library",
+    "department_path": "Vice Chancellor / DVC (Academic) / Library",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "6cba464f4d7d",
+    "name": "Iddi Jengo Keya",
+    "employee_number": "151",
+    "terminal_id": "151",
+    "department": "Examination",
+    "department_path": "Vice Chancellor / DVC (Academic) / Examination",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "74b11649d47a",
+    "name": "Idd Muhsin Sudi",
+    "employee_number": "",
+    "terminal_id": "",
+    "department": "Library",
+    "department_path": "Vice Chancellor / DVC (Academic) / Library",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "bc92d6dd8bd9",
+    "name": "Ismail Haji Hassan",
+    "employee_number": "318",
+    "terminal_id": "318",
+    "department": "ICT",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / ICT",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "6c2972414965",
+    "name": "Ismail Hassan Mabote",
+    "employee_number": "231",
+    "terminal_id": "231",
+    "department": "Biology",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Biology",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "d1b00a07cc77",
+    "name": "Issa Bawili Chano",
+    "employee_number": "326",
+    "terminal_id": "326",
+    "department": "Accounting and Finance",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Accounting and Finance",
+    "already_registered": true,
+    "terminal_alias": "Issa Bawili Chano"
+  },
+  {
+    "key": "2c940f24f718",
+    "name": "Jadidi A. Suleiman",
+    "employee_number": "166",
+    "terminal_id": "166",
+    "department": "Law",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Law",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "1f2a97dc0c72",
+    "name": "Jaha Mwalukisa Mulema",
+    "employee_number": "88",
+    "terminal_id": "88",
+    "department": "Quality Assuarance",
+    "department_path": "Vice Chancellor / DVC (Academic) / Quality Assuarance",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "5fba56fe8aea",
+    "name": "Jalina Salim Issa",
+    "employee_number": "160",
+    "terminal_id": "160",
+    "department": "Library",
+    "department_path": "Vice Chancellor / DVC (Academic) / Library",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "c54e686a0a83",
+    "name": "Jamila Kibwili",
+    "employee_number": "309",
+    "terminal_id": "309",
+    "department": "Radio",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Radio",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "1bbf9eab1270",
+    "name": "Japhari Salum",
+    "employee_number": "142",
+    "terminal_id": "142",
+    "department": "Language and Linguistics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Language and Linguistics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "140c1ea1f374",
+    "name": "Jasmini Walii Selemani",
+    "employee_number": "242",
+    "terminal_id": "242",
+    "department": "Dean of Student Office",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Dean of Student Office",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "bc9be4c00811",
+    "name": "Joyce Mbwambo",
+    "employee_number": "327",
+    "terminal_id": "327",
+    "department": "Library",
+    "department_path": "Vice Chancellor / DVC (Academic) / Library",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "956106aadcec",
+    "name": "Jumaa Nyuni",
+    "employee_number": "294",
+    "terminal_id": "294",
+    "department": "Kiswahili",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Kiswahili",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "d3308515296a",
+    "name": "Jumaa Yusufu Ezekiel",
+    "employee_number": "331",
+    "terminal_id": "331",
+    "department": "Estate",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Estate",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "76d83cf6871a",
+    "name": "Justice Deudedit Kisindo",
+    "employee_number": "275",
+    "terminal_id": "275",
+    "department": "Medical Lab",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Medical Lab",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "adbe75315602",
+    "name": "Kaluona Desdery Kinawilo",
+    "employee_number": "168",
+    "terminal_id": "168",
+    "department": "Mass com",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Mass com",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "3968ff9e1ff1",
+    "name": "Khadija Shaban Juma",
+    "employee_number": "284",
+    "terminal_id": "284",
+    "department": "Law",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Law",
+    "already_registered": true,
+    "terminal_alias": "Hadija Shaban"
+  },
+  {
+    "key": "a4cdfdb1e284",
+    "name": "Kunambi Hamadi Dibwe",
+    "employee_number": "100",
+    "terminal_id": "100",
+    "department": "Dean of Student Office",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Dean of Student Office",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "3434921540ba",
+    "name": "Layla S. Mapeyo",
+    "employee_number": "136",
+    "terminal_id": "136",
+    "department": "Law and Sharia'h",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Law & Shariah / Law and Sharia'h",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "0681c2464e19",
+    "name": "Mahadi Daudi Kyonda",
+    "employee_number": "67",
+    "terminal_id": "67",
+    "department": "Library",
+    "department_path": "Vice Chancellor / DVC (Academic) / Library",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "5432ad7ffa4f",
+    "name": "Mansoor Kambuga Yunusu",
+    "employee_number": "312",
+    "terminal_id": "312",
+    "department": "Language and Linguistics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Language and Linguistics",
+    "already_registered": true,
+    "terminal_alias": "Mansoor Kambuga Yunusu"
+  },
+  {
+    "key": "0b37088cd435",
+    "name": "Mariam Mohamed",
+    "employee_number": "59",
+    "terminal_id": "59",
+    "department": "ICT",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / ICT",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "e5a9db833b26",
+    "name": "Maua Said Bakari",
+    "employee_number": "228",
+    "terminal_id": "228",
+    "department": "Education",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Education",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "b52748a4b121",
+    "name": "Mbwana k kassim",
+    "employee_number": "289",
+    "terminal_id": "289",
+    "department": "Economics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Economics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "fed1f9a35912",
+    "name": "Mohamedi Iyombe",
+    "employee_number": "186",
+    "terminal_id": "186",
+    "department": "Radio",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Radio",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "2e5f9d1b77c8",
+    "name": "Mossi Kalagila",
+    "employee_number": "43",
+    "terminal_id": "49",
+    "department": "Human Resource",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Human Resource",
+    "already_registered": true,
+    "terminal_alias": "Mossi Kalagila"
+  },
+  {
+    "key": "1dd47740e18e",
+    "name": "Mr. Nasibu Iddi Sadick",
+    "employee_number": "297",
+    "terminal_id": "297",
+    "department": "Medical Lab",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Medical Lab",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "0680448241e2",
+    "name": "Mr.Ngaja M. Mussa",
+    "employee_number": "",
+    "terminal_id": "",
+    "department": "Public Relations",
+    "department_path": "Vice Chancellor / Public Relations",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "48c2abad6d1b",
+    "name": "Mr.Rajabu Kisonga",
+    "employee_number": "26",
+    "terminal_id": "26",
+    "department": "Human Resource",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Human Resource",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "2ab9006e6aba",
+    "name": "Mr. Ramson Mkaguru",
+    "employee_number": "145",
+    "terminal_id": "145",
+    "department": "Accounting and Finance",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Accounting and Finance",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "df803a8ccf9f",
+    "name": "Mr.Suleiman Suleiman",
+    "employee_number": "",
+    "terminal_id": "",
+    "department": "Library",
+    "department_path": "Vice Chancellor / DVC (Academic) / Library",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "4a026671c5a3",
+    "name": "Mtelema Issa Nyota",
+    "employee_number": "329",
+    "terminal_id": "329",
+    "department": "Library",
+    "department_path": "Vice Chancellor / DVC (Academic) / Library",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "0cad07e865bf",
+    "name": "Munir Mashaka Shabani",
+    "employee_number": "273",
+    "terminal_id": "273",
+    "department": "Medical Lab",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Medical Lab",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "b3c8ae48e929",
+    "name": "Mussa J. Kideli",
+    "employee_number": "116",
+    "terminal_id": "116",
+    "department": "Estate",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Estate",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "23e0516d0ede",
+    "name": "Mussa Saidi Mussa",
+    "employee_number": "112",
+    "terminal_id": "112",
+    "department": "Education",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Education",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "682971a974be",
+    "name": "Mwanaisha Mbwana Iddi",
+    "employee_number": "295",
+    "terminal_id": "295",
+    "department": "Kiswahili",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Kiswahili",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "9380e7a44d34",
+    "name": "Nassor Said Ali",
+    "employee_number": "58",
+    "terminal_id": "58",
+    "department": "Mass com",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Mass com",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "c901cd0d096d",
+    "name": "Nuru S. Mohamed",
+    "employee_number": "119",
+    "terminal_id": "119",
+    "department": "Biology",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Biology",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "cbb75b02b5c7",
+    "name": "Nuwia Issa Mdeng'o",
+    "employee_number": "109",
+    "terminal_id": "109",
+    "department": "Radio",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Radio",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "21b5f6d1d013",
+    "name": "Prof. Dato Mohd Razali Bin Agus",
+    "employee_number": "324",
+    "terminal_id": "324",
+    "department": "Sociology",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Sociology",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "bf1f19e81ac6",
+    "name": "Prof. Hamza Mustafa Njozi",
+    "employee_number": "37",
+    "terminal_id": "037",
+    "department": "DVC (Academic)",
+    "department_path": "Vice Chancellor / DVC (Academic)",
+    "already_registered": true,
+    "terminal_alias": "Hamza Mustafa Njozi"
+  },
+  {
+    "key": "cbf65d734de8",
+    "name": "Prof Jumanne Daudi Kalwani",
+    "employee_number": "285",
+    "terminal_id": "285",
+    "department": "Geography",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Geography",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "6c46fcc36b08",
+    "name": "Prof. Mohammed H.K.S Timamy",
+    "employee_number": "323",
+    "terminal_id": "323",
+    "department": "Economics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Economics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "4be8c23df68e",
+    "name": "Prof. Mussa J. Assad",
+    "employee_number": "248",
+    "terminal_id": "248",
+    "department": "Vice Chancellor",
+    "department_path": "Vice Chancellor",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "b731c199fbda",
+    "name": "Prof. Yusuf Ismail Ally Koleleni",
+    "employee_number": "255",
+    "terminal_id": "37",
+    "department": "DVC (Administration and Finance)",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance)",
+    "already_registered": true,
+    "terminal_alias": "Yusuf Koleleni"
+  },
+  {
+    "key": "0dc9b095c596",
+    "name": "Rajab Nyembwe",
+    "employee_number": "113",
+    "terminal_id": "113",
+    "department": "Physics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Physics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "d0e57c237bd6",
+    "name": "Ramadhani Hamisi Abdallah",
+    "employee_number": "75",
+    "terminal_id": "75",
+    "department": "Geography",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Geography",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "58f2e1015bad",
+    "name": "Ramadhani Kitwana Dau",
+    "employee_number": "258",
+    "terminal_id": "258",
+    "department": "Faculty of Business Studies",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Business Studies",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "a68f627f5e8c",
+    "name": "Rashid A. Mtagaluka",
+    "employee_number": "125",
+    "terminal_id": "125",
+    "department": "Radio",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Radio",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "b7f091c07d34",
+    "name": "Rashid Said Ititi",
+    "employee_number": "110",
+    "terminal_id": "110",
+    "department": "Arabic",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Arabic",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "5913f93fab1a",
+    "name": "Rubeya Ali Salim",
+    "employee_number": "249",
+    "terminal_id": "249",
+    "department": "Language and Linguistics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Language and Linguistics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "21520f0b001b",
+    "name": "Sadiki Moshi Feruzi",
+    "employee_number": "89",
+    "terminal_id": "89",
+    "department": "Language and Linguistics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Language and Linguistics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "3f3164d0d51c",
+    "name": "Said Juma Mtawazi",
+    "employee_number": "237",
+    "terminal_id": "237",
+    "department": "Physics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Physics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "89533dd031c7",
+    "name": "Said Sadallah Said",
+    "employee_number": "212",
+    "terminal_id": "212",
+    "department": "Admission",
+    "department_path": "Vice Chancellor / DVC (Academic) / Admission",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "805cf1dd070e",
+    "name": "Salama Salehe Kingwahi",
+    "employee_number": "274",
+    "terminal_id": "274",
+    "department": "Medical Lab",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Medical Lab",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "9ad13d59e3f4",
+    "name": "Salim Khamis Mohamed",
+    "employee_number": "56",
+    "terminal_id": "56",
+    "department": "Arabic",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Arabic",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "abd9be3890d8",
+    "name": "Salmini Salum Hilary",
+    "employee_number": "227",
+    "terminal_id": "227",
+    "department": "Education",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Education",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "94ee875dba52",
+    "name": "Sarah Rashid Mayanda",
+    "employee_number": "222",
+    "terminal_id": "222",
+    "department": "Biology",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Biology",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "d1b1c041d006",
+    "name": "Seleman Kassimu Fadhili",
+    "employee_number": "121",
+    "terminal_id": "121",
+    "department": "Biology",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Biology",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "a0fbd6d5f6e3",
+    "name": "Seleman Mohamed Seif",
+    "employee_number": "264",
+    "terminal_id": "264",
+    "department": "Estate",
+    "department_path": "Vice Chancellor / DVC (Administration and Finance) / Estate",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "50d51bf2453f",
+    "name": "Shaban Shamte Ngurangwa",
+    "employee_number": "311",
+    "terminal_id": "311",
+    "department": "Language and Linguistics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Language and Linguistics",
+    "already_registered": true,
+    "terminal_alias": "Shaban Shante Ngurangwa"
+  },
+  {
+    "key": "e23aa5d49d0b",
+    "name": "Sharifah Salum Akida",
+    "employee_number": "201",
+    "terminal_id": "201",
+    "department": "Mass com",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Mass com",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "625cfb43c72a",
+    "name": "Siraju Husseni Barantota",
+    "employee_number": "230",
+    "terminal_id": "230",
+    "department": "Language and Linguistics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Language and Linguistics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "743acf4c6f50",
+    "name": "Sofia Daudi Kajosi",
+    "employee_number": "106",
+    "terminal_id": "106",
+    "department": "Kiswahili",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Kiswahili",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "d8fc7adce49e",
+    "name": "Sudi Rajabu Kabogota",
+    "employee_number": "263",
+    "terminal_id": "263",
+    "department": "Examination",
+    "department_path": "Vice Chancellor / DVC (Academic) / Examination",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "49176cfbdeb3",
+    "name": "Suleiman Othman Rubea",
+    "employee_number": "241",
+    "terminal_id": "241",
+    "department": "Mass com",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Mass com",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "db2b03393aaf",
+    "name": "Suleiman Shomari Filambi",
+    "employee_number": "51",
+    "terminal_id": "51",
+    "department": "Islamic Studies",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Islamic Studies / Islamic Studies",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "02eeaa2adbf5",
+    "name": "Suphian M. Suphian",
+    "employee_number": "177",
+    "terminal_id": "177",
+    "department": "Islamic Studies",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Islamic Studies / Islamic Studies",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "448c3b56a52a",
+    "name": "Tatu Athumani Matenga",
+    "employee_number": "147",
+    "terminal_id": "147",
+    "department": "Library",
+    "department_path": "Vice Chancellor / DVC (Academic) / Library",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "68dfd6263456",
+    "name": "Tawaqal Juma Hussein",
+    "employee_number": "",
+    "terminal_id": "",
+    "department": "Law and Sharia'h",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Law & Shariah / Law and Sharia'h",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "d38f54a62d78",
+    "name": "Yahaya Omar Mhando",
+    "employee_number": "134",
+    "terminal_id": "134",
+    "department": "Admission",
+    "department_path": "Vice Chancellor / DVC (Academic) / Admission",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "a1db2099b56f",
+    "name": "Yahaya Ramadhani Saidi",
+    "employee_number": "310",
+    "terminal_id": "310",
+    "department": "Examination",
+    "department_path": "Vice Chancellor / DVC (Academic) / Examination",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "f52136f0598c",
+    "name": "Yasin Wahbu Kilumbu",
+    "employee_number": "257",
+    "terminal_id": "257",
+    "department": "Procurement",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Business Studies / Procurement",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "b68d0af566f1",
+    "name": "Zainabu S. Kasenya",
+    "employee_number": "140",
+    "terminal_id": "140",
+    "department": "Chemistry",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Science / Chemistry",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "64fe0d738fda",
+    "name": "Zamda Yusufu Msoke",
+    "employee_number": "229",
+    "terminal_id": "229",
+    "department": "Language and Linguistics",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / Language and Linguistics",
+    "already_registered": false,
+    "terminal_alias": ""
+  },
+  {
+    "key": "28002f2f3b4e",
+    "name": "Ziaoulhack K. Ismail",
+    "employee_number": "130",
+    "terminal_id": "130",
+    "department": "History",
+    "department_path": "Vice Chancellor / DVC (Academic) / All Faculties / Faculty of Arts   & Humanities / History",
+    "already_registered": false,
+    "terminal_alias": ""
+  }
+]
