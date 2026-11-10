@@ -2,12 +2,14 @@
 
 A green, logo-branded Streamlit application for the **Muslim University of Morogoro**, using **one Hikvision terminal**. The terminal address is intentionally unconfigured until its public IP or reachable host is available. This repository contains no real terminal credentials or administrator password.
 
+The app header, favicon and downloaded reports use `assets/mum_logo_hq.png`, a high-resolution restoration of the MUM emblem. The original supplied logo is retained as `assets/mum_logo.png`.
+
 ## Registration
 
 1. Sign in as an administrator; the app loads the terminal’s employee list.
 2. Filter by department and type into the searchable employee-name dropdown.
 3. Check the terminal employee number. Employees without a number in the source export require a unique number. Leading zeros are preserved.
-4. Upload a JPEG face photograph. Stand beside the terminal and click **Capture fingerprint** for the selected finger slot.
+4. Choose **Upload photograph** for an existing JPEG, or **Use device camera** to take a photograph on your phone/computer. Allow browser camera access, take a clear front-facing photograph, and retake it if needed. Camera capture requests 720p where supported. Stand beside the terminal and click **Capture fingerprint** for the selected finger slot.
 5. Click **Save registration**. The app verifies the existing identity or creates the person, sends the photograph and fingerprint, and reads both back before reporting success.
 
 Capture holds a template in the current administrator session until Save; it does not attach the fingerprint to a person by itself. Changing the selected employee clears the pending fingerprint. Saving successfully, signing out or session expiry clears the pending template. No photograph or fingerprint is written to a local file or committed to this repository. The session expires after 30 minutes without interaction. Close or sign out of unattended administrator sessions.
@@ -60,7 +62,9 @@ pip install -r requirements.txt
 python make_password.py
 ```
 
-Copy `secrets.example.toml` to `.streamlit/secrets.toml`. Set your administrator username and the generated password hash. Add the reachable terminal address, username and password when ready. The real secrets file is ignored by Git. Environment variables with the same names are also supported.
+Copy `secrets.example.toml` to `.streamlit/secrets.toml`. Set your administrator username and the generated password hash. Add the reachable terminal address, username and password when ready. Camera capture needs browser permission and a secure HTTPS connection (Streamlit Community Cloud provides HTTPS), or localhost during development. The upload option remains available if a camera is unavailable.
+
+The real secrets file is ignored by Git. Environment variables with the same names are also supported.
 
 ```bash
 streamlit run app.py

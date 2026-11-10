@@ -1,5 +1,6 @@
 """MUM's single-terminal registration and attendance application."""
 import os
+import base64
 import time as clock
 from datetime import datetime, timedelta, time
 from pathlib import Path
@@ -14,7 +15,14 @@ from security import verify_password
 from report_tables import export_docx, export_pdf, export_xlsx
 
 ROOT=Path(__file__).parent
-st.set_page_config(page_title='MUM · Registration & Attendance',page_icon=str(ROOT/'assets/mum_logo.png'),layout='wide')
+
+@st.cache_data
+def logo_data_uri():
+    # Retain source pixels for sharp rendering on high-density displays.
+    encoded=base64.b64encode((ROOT/'assets/mum_logo_hq.png').read_bytes()).decode('ascii')
+    return 'data:image/png;base64,'+encoded
+
+st.set_page_config(page_title='MUM · Registration & Attendance',page_icon=str(ROOT/'assets/mum_logo_hq.png'),layout='wide')
 
 def setting(key,default=''):
     try:
@@ -27,7 +35,7 @@ def as_bool(value):
 
 roster=load_roster()
 left,right=st.columns([1,8])
-with left: st.image(str(ROOT/'assets/mum_logo.png'),width=115)
+with left: st.image(logo_data_uri(),width=115)
 with right:
     st.title('Muslim University of Morogoro')
     st.caption('STAFF REGISTRATION & ATTENDANCE · DAR ES SALAAM TIME (UTC+3)')
@@ -120,8 +128,16 @@ with registration:
         number=st.text_input('Terminal employee number',value=mapping.get(key,selected['terminal_id']),key='id_'+key,
             help='Leading zeros are preserved. An existing number belonging to another person is rejected.')
         st.caption(selected['department_path'])
-        photo=st.file_uploader('Face photograph (JPEG)',type=['jpg','jpeg'],key='photo_'+key)
-        if photo: st.image(photo,width=150)
+        photo_source=st.radio('Face photograph source',['Upload photograph','Use device camera'],
+            horizontal=True,key='photo_source_'+key)
+        if photo_source=='Use device camera':
+            st.caption('Allow camera access, look straight at the camera in good light, then take the photograph. You can retake it before saving.')
+            photo=st.camera_input('Take face photograph',key='camera_'+key,resolution='720p',disabled=not authorized)
+            if not authorized:
+                st.caption('Sign in to use the device camera.')
+        else:
+            photo=st.file_uploader('Face photograph (JPEG)',type=['jpg','jpeg'],key='photo_'+key)
+        if photo: st.image(photo,width=180,caption='Face photograph selected for this registration')
         slot=st.selectbox('Fingerprint slot',list(range(1,11)),key='slot_'+key)
         st.caption('The employee must be beside the terminal. Capture prepares the fingerprint; Save sends the registration.')
         if st.button('Capture fingerprint',disabled=client is None):
@@ -145,8 +161,9 @@ with registration:
                     save_registration(client,selected,number.strip(),photo.getvalue(),st.session_state.fingerprint,slot)
                 for k in ['fingerprint','fingerprint_slot','users','users_at']:
                     st.session_state.pop(k,None)
-                # Clear uploaded photograph from memory following successful enrollment.
-                st.session_state.pop('photo_'+key,None)
+                # Clear both photo sources after a confirmed save.
+                for photo_key in ('photo_'+key,'camera_'+key):
+                    st.session_state.pop(photo_key,None)
                 st.session_state.saved_name=selected['name']
                 st.rerun()
             except (HikvisionError,ValueError) as exc:
@@ -216,7 +233,7 @@ with attendance:
                         'Today’s absences are provisional. Unenrolled / unmatched employees are not classified as absent.']
                     for label,export,mime,ext in [('Excel',export_xlsx,'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet','xlsx'),
                         ('PDF',export_pdf,'application/pdf','pdf'),('Word',export_docx,'application/vnd.openxmlformats-officedocument.wordprocessingml.document','docx')]:
-                        data=export(title,subtitle,tables,str(ROOT/'assets/mum_logo.png'),context_lines=context)
+                        data=export(title,subtitle,tables,str(ROOT/'assets/mum_logo_hq.png'),context_lines=context)
                         st.download_button('Download '+label,data,f'MUM_{start}_{end}.{ext}',mime=mime)
     elif not client:
         st.info('Reports become available after administrator and terminal setup. No attendance or absences are assumed while the terminal is offline.')
